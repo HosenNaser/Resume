@@ -1,5 +1,5 @@
-// var Name = prompt("Enter Your Name");
-// alert("Welcome To My Profile " + Name);
+var Name = prompt("Enter Your Name");
+alert("Welcome To My Profile " + Name);
 
 const span = document.querySelector(".Animation-word");
 const word = [
