@@ -12,6 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  min-width: 500px;
   background-color: #768294;
 }
 .Animation-word {
@@ -32,6 +33,18 @@ body {
   margin-right: 20px;
 }
 
+.logo-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: 10px;
+}
+.logo-img {
+  padding: 10px;
+  max-width: 110px;
+  max-height: 100px;
+}
 .drop-button {
   height: 80px;
   width: 110px;
@@ -41,8 +54,8 @@ body {
   right: 5%;
   background-color: #222222;
   text-align: center;
-  
 }
+
 .glyphicon-chevron-down {
   color: #ffffff;
   font-size: 30px;
@@ -163,10 +176,9 @@ li {
   padding: 3px 0px;
 }
 li:hover {
-  animation-name: moveleft;
-  animation-duration: 1s;
+  animation: moveLeft 2s infinite;
 }
-@keyframes moveleft {
+@keyframes moveLeft {
   0% {
     margin-right: 0;
   }
@@ -174,6 +186,6 @@ li:hover {
     margin-right: 15px;
   }
   100% {
-    margin-r: 30px;
+    margin-left: 0;
   }
 }
