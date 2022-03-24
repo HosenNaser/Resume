@@ -171,7 +171,7 @@ hr {
   color: #22a39f;
 }
 
-li {
+#Experiences li {
   min-height: 30px;
   padding: 3px 0px;
 }
@@ -188,4 +188,12 @@ li:hover {
   100% {
     margin-left: 0;
   }
+}
+
+#Social li {
+  list-style-type: none;
+}
+#Social .Social-media-logo {
+  width: 35px;
+  margin: 10px;
 }
