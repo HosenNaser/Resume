@@ -1,16 +1,12 @@
-Welcome to my github <br>
-`this profile was built by hosen naser, here
- you well see my journey in this life :)
-`
+# Welcome to my github <br>
+## Resume Fullstack homework:
 
+This application was built for a fullstack course, you can see some of my coding skills <br>
 
+### links was used to get some ideas for the project:
+http://pascalvangemert.nl/#/profile  <br>
 
+https://youtu.be/m0o0QNpY9-0
 
-
-
-
-
-##### hosen-n-homework
-##### fullstack-homework
-
-
+### Cheack the live website:
+https://fullstack-alfanar.github.io/hosen-n-homework/
