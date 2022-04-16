@@ -12,20 +12,12 @@ if the HomeWork is a page that needs to be viewed then the branch will be merged
 
 ## Usage
 
-to see the website please visit this [link](https://fullstack-alfanar.github.io/hosen-n-homework/)
+to see the website please visit this [link](https://hosennaser.github.io/Resume/)
 
 ## Branches
 
-- [master](https://github.com/Fullstack-Alfanar/hosen-n-homework/tree/master)
-- [main](https://github.com/Fullstack-Alfanar/hosen-n-homework/tree/main) 🔵
-- [resume](https://github.com/Fullstack-Alfanar/hosen-n-homework/tree/CV) 
-- [class14](https://github.com/Fullstack-Alfanar/hosen-n-homework/tree/class14) 
-- [class15](https://github.com/Fullstack-Alfanar/hosen-n-homework/tree/class15)
-- [class16](https://github.com/Fullstack-Alfanar/hosen-n-homework/tree/class16) 
-- [class17](https://github.com/Fullstack-Alfanar/hosen-n-homework/tree/class17) 
-- [class18](https://github.com/Fullstack-Alfanar/hosen-n-homework/tree/class18) 
-- [class19](https://github.com/Fullstack-Alfanar/hosen-n-homework/tree/class19) 
-- [class20](https://github.com/Fullstack-Alfanar/hosen-n-homework/tree/class20) 🟢
+- [main](https://github.com/HosenNaser/Resume/tree/main) 🔵
+- [resume](https://github.com/HosenNaser/Resume/tree/CV)  🟢
 
 🔵 current main, 🟢 new
 
