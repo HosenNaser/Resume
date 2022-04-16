@@ -5,11 +5,6 @@
 This Branch is made to be the first branch you see when visiting my repository.<br>
 Here you will find an explanation about the repository, and git to understand how it works.<br>
 
-## Explanation
-
-Each week I will upload two HomeWorks, each HomeWork will be a `new branch` named after the number of the class for example:<br>
-if the HomeWork is a page that needs to be viewed then the branch will be merged with branch main (the branch will still be uploaded) this way it will be automatically uploaded using `GitHub page` and can be viewed using the link bellow.<br>
-
 ## Usage
 
 to see the website please visit this [link](https://hosennaser.github.io/Resume/)
