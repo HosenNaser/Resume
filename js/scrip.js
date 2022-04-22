@@ -2,8 +2,6 @@ const span = document.querySelector(".Animation-word");
 const word = [
   ["D", "e", "v", "e", "l", "o", "p", "e", "r"],
   ["D", "e", "s", "i", "g", "n", "e", "r"],
-  ["G", "a", "m", "e", "r", " 😁 "],
-  ["S", "t", "u", "d", "e", "n", "t", " 😢 "],
 ];
 
 var wordIndex = 0;
